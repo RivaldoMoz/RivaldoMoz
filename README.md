@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RivaldoMoz
-- 👀 I’m interested in FullStack, Python and CyberSecurity
+- 👀 I’m interested in FullStack, Python and CyberSecurity, Embeded Developing
 - 🌱 I’m currently learning Python and BackEnd
 - 💞️ I’m looking to collaborate on BackEnd and CyberSecurity
 - 📫 How to reach me rivaldouem@gmail.com.
